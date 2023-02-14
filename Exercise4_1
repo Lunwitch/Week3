@@ -1,0 +1,11 @@
+1. x > 10 && x < 20
+2. !(ch == '' || ch =='\t')
+    ch!='' && ch!='\t'
+3. ch == 'x' || ch == 'X'
+4. '0' <= ch && ch <= '9'
+5. ('a' <= ch && ch <= 'z') || ('A' <= ch && ch <= 'Z')
+6. year%400 == 0 || year%4==0 && year%100!=0
+7. !powerOn
+    powerOn==false
+8. str.equals("yes")
+    "yes".equals(str)
